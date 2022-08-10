@@ -3,6 +3,7 @@
 #define tentatives 4;
 #define messageErreur "999999999";
 #define id "103";
+#define Pere "102" ;
 int compteurAux = 0;
 int AccuseReception = 0;
 char *requete;
